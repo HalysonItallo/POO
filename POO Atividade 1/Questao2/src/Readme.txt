@@ -1,0 +1,1 @@
+Não ocorre a compilação, pois a variável contador não foi inicializada com nenhum valor.
