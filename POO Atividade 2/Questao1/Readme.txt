@@ -1,0 +1,1 @@
+Não haverá um problema de compilação, pois o java se encarrega de inicilizar os atributos das classes.

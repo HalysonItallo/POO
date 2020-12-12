@@ -1,0 +1,1 @@
+Não é possível fazer a execução, pois não um construtor definido na classe hotel ainda mais com um parâmetro.

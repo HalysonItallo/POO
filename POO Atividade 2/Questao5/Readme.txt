@@ -1,0 +1,2 @@
+O erro ocorreu porque na classe Radio foi implementado um constructor Radio que recebe um parâmetro, entretanto
+na classe TestaRadio quando ocorre a intânciação da casse Radio não é passado um parâmetro para o construtor.
