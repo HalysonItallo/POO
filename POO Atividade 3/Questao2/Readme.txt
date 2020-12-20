@@ -1,0 +1,1 @@
+O erro ocorrido é de compilação, pois acorre o esqueciemento da atribuição de objeto na posição 0 do array contas;
