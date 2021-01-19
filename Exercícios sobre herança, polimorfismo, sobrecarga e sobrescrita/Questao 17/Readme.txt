@@ -1,0 +1,1 @@
+Os metodos tem o mesmo nome e os mesmos parametros, então não é possível haver a sobrecarga e então ocorre o error.
