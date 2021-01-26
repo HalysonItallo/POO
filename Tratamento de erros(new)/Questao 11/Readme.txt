@@ -1,0 +1,1 @@
+Como a exceção dois herda da exceção um, não é possível tratar duas exceções do mesmo tipo.
