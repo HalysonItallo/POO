@@ -1,0 +1,1 @@
+É preciso implementar na ClasseConcreta o método que está declarado na ClasseAbstrata justamente por que ela é abstrata.

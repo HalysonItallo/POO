@@ -1,0 +1,2 @@
+Por que quando damos new em FiguraGeometrica[10] estamos alocando memória de um array que terá 10 elementos do tipo FiguraGeometrica
+Onde podemos inserir objetos de classes filhas de FiguraGeometrica, por esse motivo é possível instaciar esse array.

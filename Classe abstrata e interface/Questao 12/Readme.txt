@@ -1,0 +1,1 @@
+A classe auditoria só se importa se a classe está sendo implementada pelo tipo da interface Itributavel.

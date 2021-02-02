@@ -1,0 +1,1 @@
+A classe ficará com erro até que o método da classe abstrata seja implementado.
